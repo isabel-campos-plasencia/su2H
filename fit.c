@@ -499,7 +499,6 @@ void main(int argc, char *argv[])
     
     
     /* dibuja histograma */
-
     titulo(nombre,nombre_case,&datos, n1, n2, l, nblo);
     fprintf(Foutplt,formato,nombre,nombre_case,
 	    "n","",n_ener," -    -","9P");

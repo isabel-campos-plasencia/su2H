@@ -12,7 +12,7 @@ typedef struct{float a0,a1,a2,a3;} o4v;
 
  
 
-# define L              16
+# define L              4
 # define maxit 		5000
 # define maxbloque 	 20
 # define nom_fich	 "OUT"

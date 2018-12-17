@@ -11,9 +11,9 @@
 /*#define HISTER */  
 #define twopi  6.28318
 #define pi 3.14159
-/*#define PUROGAUGE */  
+#define PUROGAUGE 
 
-#define L    16
+#define L    6
 
 #define V (L*L*L*L)
 
